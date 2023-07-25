@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @realJaydenCheng
-- 👀 I’m interested in Web development, Front-end engineering and Block chain.
-- 🌱 I’m currently learning JavaScript, SQL, React...
-- 💞️ I’m looking to collaborate on web development.
-- 📫 How to reach me: jaydencheng@whut.edu.com
+- 👀 I’m interested in Full-stack Web Engineering and AI.
+- 🌱 I’m currently learning JavaScript, ML...
+- 📫 How to reach me: jaydencheng@foxmail.com
 
 <!---
 realJaydenCheng/realJaydenCheng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
