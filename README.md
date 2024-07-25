@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @realJaydenCheng
-- 👀 I’m interested in Full-stack Web Engineering and AI.
-- 🌱 I’m currently learning JavaScript, ML...
+- 👀 I’m interested in AI and Full-stack Web Engineering.
+- 🌱 I’m currently learning NLP, LLM...
 - 📫 How to reach me: jaydencheng@foxmail.com
 
 <!---
